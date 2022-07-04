@@ -8,7 +8,7 @@ Fast lending, a peer to peer lending services comapny, wants to use machine lear
 
 - Oversample the data using the **RandomOverSampler** algorithm.
 
-- Oversample the data using the **RandomOverSampler** algorithm.
+- Oversample the data using the **SMOTE** algorithm.
 
 - Undersample the data using the **ClusterCentroids** algorithm.
 
